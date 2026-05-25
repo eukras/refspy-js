@@ -1,0 +1,16 @@
+{
+  "version": "5",
+  "specifiers": {
+    "npm:jupyter@^0.0.0": "0.0.0"
+  },
+  "npm": {
+    "jupyter@0.0.0": {
+      "integrity": "sha512-nMBt9P20bs0zalSS85DZlv5s5lu/vA271VvKwj/mWRYRVONtxYclMnBht33qmLu+mN9UedpJme6T41Z8tcnrAg=="
+    }
+  },
+  "workspace": {
+    "dependencies": [
+      "npm:jupyter@^0.0.0"
+    ]
+  }
+}

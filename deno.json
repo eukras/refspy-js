@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "jupyter": "npm:jupyter@^0.0.0"
+  }
+}

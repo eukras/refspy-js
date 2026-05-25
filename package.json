@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "refsjs": "file:refsjs-0.11.7.tgz"
+  }
+}
